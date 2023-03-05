@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "Sobuj_Vai's OneDrive 🤪",
+  title: "Taanshed_Vai's OneDrive 🤪",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -42,8 +42,8 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ["/Desktop", "/Documents", "/Pictures", "/Educational", "/Former Office", "/GoodNotes", "/Office Lense", 
-                   "/Personal", "/Tuli", "/Software", "/SonoMotors",],
+  protectedRoutes: ["/Desktop", "/Documents", "/Pictures", "/CHEMICAL TECHNOLOGY SYLLABUS", "/Picture", "/Dela", "/Office Lense", 
+                   "/Dilu_Vai_wedding", "/Programs", "/Software", "/Web series", "/Software",],
 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:spencer.wushangbo@gmail.com',
@@ -54,7 +54,7 @@ module.exports = {
   links: [
     {
       name: 'GitHub',
-      link: 'https://github.com/sobuj53/onedrive-vercel-index',
+      link: 'https://github.com/taanshed/onedrive-vercel-index',
     },
     {
       name: 'Telegram',
